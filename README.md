@@ -1,10 +1,5 @@
 # Álgebra II — Primer cuatrimestre de 2015
 
-## Equipo docente
-
-- **Clases teóricas:** Daniel Perrucci
-- **Clases prácticas:** Patricia Jancsa, Ignacio Darago
-
 ## Prácticas
 
 - [Práctica 1](algebra2_1.pdf)
